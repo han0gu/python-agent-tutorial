@@ -2,6 +2,8 @@
 
 OpenAI API를 사용하여 단계별로 코딩 AI 에이전트를 구현하는 튜토리얼 프로젝트입니다.
 
+[출처: 파이썬으로 코딩에이전트 만들기 - 다비드스튜디오 dabidstudio](https://www.youtube.com/watch?v=TC2YqyMvKow)
+
 ## 사전 요구사항
 
 - 파이썬 설치
